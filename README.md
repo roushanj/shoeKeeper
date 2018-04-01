@@ -5,7 +5,7 @@
     
     Link:  https://lessshoe-gnllusatmu.now.sh 
     
-   A /api
+    /api
       1./add -- Add shoe
           Request Type- POST
           Header- content-type - application/json
